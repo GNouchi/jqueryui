@@ -1,0 +1,15 @@
+div{
+    display: inline;
+    background: blue;
+}
+    ul{
+        padding: 0px;
+        margin: 0px;
+    }
+    img {
+        margin: -5px;
+    }
+    body {
+        margin-left: 5px;
+        margin-top: 5px;
+    }
